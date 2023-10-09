@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # navigate to app folder
-cd /app
+cd /opt/
 
 # transfering artifacts
 cp -r build/* /var/www/html
