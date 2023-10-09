@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # navigate to app folder
-cd /app/
+cd /opt/
