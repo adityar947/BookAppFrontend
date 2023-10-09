@@ -10,3 +10,4 @@
 # pm2 startup
 # pm2 save
 # pm2 restart all
+sudo systemctl reload nginx
