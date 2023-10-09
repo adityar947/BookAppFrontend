@@ -3,8 +3,6 @@
 # navigate to app folder
 cd /app
 
-# install dependencies
-npm install
-npm run build
+# transfering artifacts
 cp -r build/* /var/www/html
-npm install pm2 -g
+#npm install pm2 -g
