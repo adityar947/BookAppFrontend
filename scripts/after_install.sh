@@ -6,3 +6,6 @@ cd /opt/
 # transfering artifacts
 cp -r build/* /var/www/html
 #npm install pm2 -g
+
+# reload nginx
+sudo systemctl reload nginx
